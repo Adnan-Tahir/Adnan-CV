@@ -1,0 +1,238 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;  
+    display: flex;
+}
+#nave{
+    height: 185%;
+    width: 38%;
+    background-color: white;
+    margin-left: 10px;
+}
+#nave2{
+    height: 23%;
+    width: 100%;
+    background-color: gainsboro;
+}
+#img{
+    height: 100%;
+    width: 50%;
+    margin-left: 25%;
+}
+#name{
+    margin-top: -16%;
+    color: deeppink;
+}
+#name2{
+    margin-top: -5%;
+    margin-left: 18%;
+    color: darkgrey;
+}
+#con{
+    color: lime;
+    margin-left: 7%;
+    margin-top: 0;
+    font-size: 20px;
+}
+#sc{
+    margin-left: 6%;
+    color: gray;
+    font-size: 20px;
+}
+#cap{
+    margin-left: 8%;
+    color: darkgrey;
+    font-size: 20px;
+}
+#div{
+    margin-left: 6%;
+    height: 1.5%;
+    width: 87%;
+    background-color: lime;
+    border-radius: 50px;
+}
+#div2{
+    height: 100%;
+    width: 90%;
+    background-color: deeppink;
+    border-radius: 50px;
+}
+#div3{
+    height: 100%;
+    width: 80%;
+    background-color: deeppink;
+    border-radius: 50px;
+}
+#div4{
+    height: 100%;
+    width: 75%;
+    background-color: deeppink;
+    border-radius: 50px;
+}
+#div5{
+    height: 100%;
+    width: 50%;
+    background-color: deeppink;
+    border-radius: 50px;
+}
+#num{
+    color:white;
+    margin-left: 50%;
+}
+#lang{
+    margin-top: 50px;
+    margin-left: 8%;
+    color: gray;
+    font-size: 20px;
+    margin-top: 50px;
+
+}
+#divs{
+    margin-left: 6%;
+    height: 2%;
+    width: 87%;
+    background-color: lime;
+    border-radius: 50px;
+}
+#div6{
+    height: 100%;
+    width: 100%;
+    background-color: deeppink;
+    border-radius: 50px;
+}
+#div7{
+    height: 100%;
+    width: 60%;
+    background-color: deeppink;
+    border-radius: 50px;
+}
+#div8{
+    height: 100%;
+    width: 30%;
+    background-color: deeppink;
+    border-radius: 50px;
+}
+#big{
+    height: 96%;
+    width: 80%;
+    background-color: white;
+    margin-left: 17px;
+}
+#Work{
+    margin-left: 10%;
+    color: gray;
+    margin-top: -3.7%;
+}
+#cone{
+    color: deeppink;
+    margin-left: 5%;
+    font-size: 30px;
+}
+#front{
+    margin-left: 3%;
+    color: gray;
+    font-size: 120%;
+}
+#date{
+    margin-left: 10%;
+    color: deeppink;
+    margin-top: -2%;
+}
+#date2{
+    margin-left: 10%;
+    color: deeppink;
+    margin-top: -2%;
+}
+#icone{
+    color: deeppink;
+    margin-left: 5%;
+    font-size: 110%;
+    margin-top: 2%;
+}
+#icone1{
+    color: deeppink;
+    margin-left: 5%;
+    font-size: 110%;
+    margin-top: 2%;
+}
+#icone2{
+    color: deeppink;
+    margin-left: 5%;
+    font-size: 110%;
+    margin-top: 2%;
+}
+#cur{
+    margin-left: -56%;
+    font-size: 110%;
+    background-color: deeppink;
+    color: white;
+    height: 10%;
+    width: 8.2%;
+    margin-top: -2%;
+    border-radius: 5px;
+}
+#pera{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+#big2{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    margin-top: 6%;
+}
+#Work2{
+    margin-left: 10%;
+    color: gray;
+    margin-top: -3.9%;
+}
+#icone3{
+    color: deeppink;
+    margin-left: 3%;
+    font-size: 110%;
+    margin-top: 5%;
+    font-size: 200%;
+    transition: all 0.7s ease-in-out;
+}
+#icone3:hover{
+    font-size: 50%;
+}
+#icone4{
+    color: deeppink;
+    margin-left: 3%;
+    font-size: 110%;
+    margin-top: 2%;
+}
+#icone5{
+    color: deeppink;
+    margin-left: 3%;
+    font-size: 110%;
+    margin-top: 3%;
+}
+#icone6{
+    color: deeppink;
+    margin-left: 3%;
+    font-size: 110%;
+    margin-top: 3%;
+}
+#icone7{
+    color: white;
+}
+#icone7:hover{
+    color: darkgray;
+}
+#enddiv{
+    height: 22%;
+    width: 160.9%;
+    background-color: deeppink;
+    margin-top: 2%;
+    margin-left: -60%;
+}
+#pera2{
+    color: white;
+}
+#pera3{
+    color: white;
+    margin-top: -5%;
+}
